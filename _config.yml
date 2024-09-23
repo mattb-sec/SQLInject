@@ -1,5 +1,5 @@
-title: Hacker theme
-description: Hacker is a theme for GitHub Pages.
-show_downloads: true
+title: SQL Injections
+description: A close look at SQLi attacks from both the attacking and defending perspectives
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-hacker
